@@ -1,0 +1,11 @@
+Ali 1073 2000 11234 ali@gmail.com Haripur 03456789088 Default
+Abdullah 1081 45000 1234567890 abdullah@gmail.com Haripur 03456754322 Saving
+Sabtain 1105 890 5678 sabtain@gmail.com Mang 03456789054 Current
+Salman 1278 2000 12345 salman@gmail.com Abbottabad 03167895433 Default
+Jibran 1461 5678 56789 jibran@gmail.com Bhakkar 03245678949 Current
+Zain 1654 4567 4567 zain@gmail.com Kamra 03225647846 Saving
+Shaweiz 1754 789 2345 shaweiz@gmail.com Jehlum 03225678597 Saving
+Usama 1895 2375 12345 usama@gmail.com Karachi 03456752199 Current
+Khan 1978 2654 6789 khan@gmail.com Islamabad 03226745903 Default
+Usman 1476 4500 123456 usman@gmail.com PAF-IAST Hostel 0340195
+Moiz 1667 3500 123456 moiz@gmail.com Haripur 03498765432 Saving
