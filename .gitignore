@@ -1,0 +1,54 @@
+# --- C++ Compiled Files ---
+*.exe
+*.out
+*.o
+*.a
+*.so
+*.dll
+*.obj
+*.ilk
+*.pdb
+*.exp
+*.lib
+
+# --- Executable (if compiled) ---
+BankManagementSystem  # Name of your compiled binary
+
+# --- IDE/Editor Files ---
+.vscode/
+.idea/
+*.suo
+*.user
+*.sln
+*.vcxproj*
+*.filters
+*.opensdf
+*.sdf
+
+# --- Build Directories ---
+build/
+bin/
+obj/
+Debug/
+Release/
+x64/
+x86/
+
+# --- System Files ---
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# --- Logs & Temp Files ---
+*.log
+*.tmp
+*.temp
+
+# --- Local Data (Optional) ---
+# Uncomment if you DON'T want to track accounts.txt
+# accounts.txt
+
+# --- Documentation ---
+*.pdf
+*.docx
